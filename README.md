@@ -6,8 +6,15 @@ SentimentSphere is an advanced web application designed to recognize and analyze
 
 ---
 
+## Overview
+
+SentimentSphere is a multimodal emotion recognition web application that detects human emotions from both **text** and **visual data** (images/video). It combines Natural Language Processing (NLP) — using a trained classifier deployed via a Streamlit app — with Computer Vision using a CNN and Haar Cascade face detection. Built with Python, the project covers data preprocessing, model training, and interactive web interfaces for exploring emotion analysis results across two modalities.
+
+---
+
 ## Table of Contents
 
+- [Overview](#overview)
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Concepts & Technologies](#concepts--technologies)
